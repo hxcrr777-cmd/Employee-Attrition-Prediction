@@ -1,4 +1,4 @@
-https://employee-attrition-prediction-grbyrf2vshfm7mrab7ovu3.streamlit.app/
+APPLICATION => https://employee-attrition-prediction-grbyrf2vshfm7mrab7ovu3.streamlit.app/
 # Employee Attrition Prediction System
 
 ## 📌 Project Overview
